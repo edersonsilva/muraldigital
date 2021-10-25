@@ -31,6 +31,10 @@ $ yarn dev
 # O servidor inciará na porta:3333 - acesse <http://localhost:3000>
 ```
 
+### 🎲 Integração do OAUTH Github para credenciais variáveis ambiente.
+
+https://docs.github.com/pt/developers/apps/building-oauth-apps/creating-an-oauth-app
+
 ### 🎲 Rodando o Front End (web)
 
 ```bash
@@ -48,6 +52,10 @@ $ yarn start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:4000>
 ```
+
+### 🎲 Aplicativo Mobile
+
+Em Desenvolvimento
 
 ### 🛠 Tecnologias
 
